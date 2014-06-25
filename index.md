@@ -38,7 +38,7 @@ model <- lm(mpg ~ wt + am, data = in.1)
 
 ---
 
-## Ouputs
+## Outputs
 ===========================================================
 1. Based on selection of radio buttons three outputs can be generated
 
