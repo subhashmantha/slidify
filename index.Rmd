@@ -15,11 +15,11 @@ knit        : slidify::knit2slides
 
 1. Developed an application using R and Shiny Server
 
-2. The application performs simple summarization, display and regression analysis
+2. The application performs simple summary, display and regression analysis
 
 3. The user does not have to write code either to read files, summarize data, or run regressions
 
-4. The outputs are visible immediately and the user can make new selections of variales
+4. The outputs are visible immediately and the user can make new selections of variables
 
 ---
 
@@ -29,7 +29,7 @@ knit        : slidify::knit2slides
 
 2. The file may or may not contain a header. It is preferable to have a header line
 
-3. populates two lists - one for selecting depndent vars and the other for selecting independent vars
+3. populates two lists - one for selecting dependent vars and the other for selecting independent vars
 
 ```r
 in.1 <- mtcars
